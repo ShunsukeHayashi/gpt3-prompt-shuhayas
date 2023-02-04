@@ -1,2 +1,2 @@
 # gpt3-prompt-shuhayas
-gpt3 prompt
+GPT3のプロンプトを集めます。
